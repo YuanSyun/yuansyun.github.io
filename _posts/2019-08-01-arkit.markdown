@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "A Portal Door With ARKit on Real-World"
+---
+
+由於研究所的研究領域為人機互動，其中有包含了擴增實境，加上最近Apple開始發展AR的技術，因此想了解ARKit目前提供的功能性，並實作了三個小作品。
+
+# Unity 3D + ARKit 2.0 #
+此測試使用了Unity 3D搭配ARKit，其中使用的裝置為iPad 2018以及MacBook Air。
+
+# 虛擬撞球桌 #
+此作品是利用World Tracking的方式，透過對環境的特徵點的紀錄將一個虛擬撞球桌放置於真實環境中，使用者可以透過撞擊白球進行遊戲。
+
+# 任意門 #
+此作品利用World Tracking，將一扇虛擬的門放置在環境之中，當穿過此門會轉換到虛擬世界，若走回此門則會回到真實世界，實現任意門的概念。
+
+# 虛擬物件及虛擬UI #
+最後為測試Image Tracking的功能，讓虛擬的物件依照指定圖像的位置顯示在真實世界中，或是透過圖像顯示一個隱藏的UI。
