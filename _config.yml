@@ -3,8 +3,8 @@
   # When filling this file in, below, be sure to DELETE the "#" comments - example, greeting should look like - greeting: Hello, I'm Simpol.
 
 #content for nav.html
-title: 葉元勲
-subtitle: Yuan-Syun Ye
+title: Yuan-Syun Ye
+subtitle: 葉元勲畢業於國立交通大學多媒體工程研究所，碩士研究領域為人機互動(Human Computer Interface, HCI)、虛擬實境(Virtual Reality, VR)。擅長工具為Unity 3D，能透過Arudino與3D Printer快速進行硬體裝置的開發。目前正在尋找與虛擬實境、擴增實境以及物聯網相關的工作機會。
 
 #content for index.html
   #Add your own info, deleting the comments "#". This data automatically writes to the Index page's mini, about section.
@@ -16,24 +16,24 @@ subgreeting_two: #SUBGREETING_TWO_GOES_HERE
 # Again: after inputting your content, you may need to stop and restart jekyll server for changes to take effect.
 
 #content for nav.html (shown on desktop) navigation links
-nav_link_one_name: #NAV_NAME_GOES_HERE
-nav_link_one_link: #NAV_LINK_GOES_HERE
+nav_link_one_name: github
+nav_link_one_link: "https://github.com/yuansyun"
 
-nav_link_two_name: Categories
-nav_link_two_link: "/categories"
+nav_link_two_name: facebook
+nav_link_two_link: "https://www.facebook.com/YuanSyun/"
 
-nav_link_three_name: #NAV_NAME_GOES_HERE
-nav_link_three_link: #NAV_LINK_GOES_HERE
+nav_link_three_name: twitter
+nav_link_three_link: "https://twitter.com/yuansyun"
 
 #content for footer.html (shown on mobile) footer navigation links
-footer_link_one_name: #FOOTER_NAME_GOES_HERE
-footer_link_one_link: #FOOTER_LINK_GOES_HERE
+footer_link_one_name: github
+footer_link_one_link: "https://github.com/yuansyun"
 
-footer_link_two_name: Categories
-footer_link_two_link: "/categories"
+footer_link_two_name: facebook
+footer_link_two_link: "https://www.facebook.com/YuanSyun/"
 
-footer_link_three_name: #FOOTER_NAME_GOES_HERE
-footer_link_three_link: #FOOTER_LINK_GOES_HERE
+footer_link_three_name: twitter
+footer_link_three_link: "https://twitter.com/yuansyun"
 
 baseurl: ""
 google_tracking_id: #deletme-Google Analytics Tracking ID- UA-XXXXXXXX-X
