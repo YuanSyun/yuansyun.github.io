@@ -35,7 +35,7 @@ footer_link_two_link: "https://www.facebook.com/YuanSyun/"
 footer_link_three_name: twitter
 footer_link_three_link: "https://twitter.com/yuansyun"
 
-baseurl: ""
+baseurl: "https://yuansyun.github.io/" 
 google_tracking_id: #deletme-Google Analytics Tracking ID- UA-XXXXXXXX-X
 copyright_name: Mathson Design, LLC
 
