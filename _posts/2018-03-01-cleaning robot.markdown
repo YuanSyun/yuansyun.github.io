@@ -3,7 +3,7 @@ layout: post
 title:  "具SLAM功能之掃地機器人最佳路徑規劃"
 description: ""
 date:       2018-03-01 09:00:00
-author:     "Yuan-Syun Ye 葉元勲"
+author:     "Yuan-Syun Ye"
 header-img: assets/images/robot-path.png
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "多人虛擬實境對戰遊戲"
 description: "EnchaterVR"
 date:       2020-01-01 09:00:00
-author:     "Yuan-Syun Ye 葉元勲"
+author:     "Yuan-Syun Ye"
 header-img: assets/images/enchatervr-partical playing.png
 ---
 
@@ -26,4 +26,4 @@ header-img: assets/images/enchatervr-partical playing.png
 # 設計多人連線的虛擬實境體驗 #
 
 為了讓對戰體驗更具有挑戰性，此作品設計可以讓玩家觀察到其他角色的動作，藉此了解對方想要施展的法術。此作品使用反向運動學(Inverse Kinematics)套件，根據使用者目前頭部位置以及雙手控制器位置推測實際玩家的身體動作，並套用在虛擬腳色的動作上，同時透過Photon多人線上連線服務將角色姿勢同步到所有玩家。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KKB_zmULBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4KKB_zmULBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

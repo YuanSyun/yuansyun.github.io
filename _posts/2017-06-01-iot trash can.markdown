@@ -3,7 +3,7 @@ layout: post
 title:  "校園垃圾桶容量偵測以及清潔路線規劃"
 description: ""
 date:       2017-06-01 09:00:00
-author:     "Yuan-Syun Ye 葉元勲"
+author:     "Yuan-Syun Ye"
 header-img: assets/images/trash can-status2.png
 ---
 
