@@ -2,7 +2,7 @@
 layout: post
 title:  "利用虛擬實境進行工業配線證照訓練"
 description: ""
-date:       2018-03-01 09:00:00
+date:       2018-04-26 09:00:00
 author:     "Yuan-Syun Ye"
 header-img: assets/images/industrial wring-partical training.png
 ---
@@ -20,4 +20,4 @@ header-img: assets/images/industrial wring-partical training.png
 
 ## 配線圖及操作錯誤提示 ##
 傳統的考證過程中施工人員會按照圖施工，其中為了引導學生進行配線，該作品會在配線圖上閃爍該目前的配線線段，當學生配完該線段後會進入到下一個目標，直到最後完成施工。其過程中若學生配線錯誤，該配線盤會給予提示音效，讓學生重新檢視配線的位置。
-<iframe style="width: 560; height: 310" src="https://www.youtube.com/embed/8u3bs3799Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/8u3bs3799Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

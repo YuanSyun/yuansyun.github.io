@@ -13,19 +13,19 @@ header-img: assets/images/alishan-tower.png
 # 漸進式的體驗流程 #
  
 我們當時是採用漸進式的方式讓使用者容易進入故事內容以及體驗操作教學。使用者會依序體驗：進入電視機、瀏覽博物館、鳥勘阿里山山脈、單一故事體驗，若體驗單一故事會鳥勘阿里山之中。若所有故事體驗結束，則回到電視機場景輪迴新的體驗。其中進入電視機的場景中，電視機的位置會仿照當時展覽時螢幕的位置擺放，表示讓使用者從真實世界進入虛擬世界的開始。而在阿里山博物館的情境，則是讓使用者可以以靜態的方式學習後續體驗會需要的操作，像是行駛高山火車、砍筏樹木等。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TTxCtw1VYas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/TTxCtw1VYas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 非線性的敘事手法 #
  
 傳統的電視敘事手法是線性式的敘事，隨著時間的先後順序播放故事劇情，在這項作品中我們採用了非線性的敘事手法，利用回憶記憶的方式來推敲出整體體驗的故事核心。當使用者成為阿里山山脈中的蝴蝶時，可自由選擇要進行的體驗。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vECQDJDy4ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vECQDJDy4ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 於虛擬實境縮時攝影 #
  
 其中一項體驗為讓使用者成為樹木，並且經過百年的成長以及周遭環境的變化，最後被人類所砍筏。在這項體驗中，最難的是在虛擬實境中實現縮時攝影的概念，這裡我們是使用者時間的因素來控制場景，植物類型的物件會隨著時間調整大小、建築以及鐵路則是在指定的時間渲染，同時天空的太陽會隨著時間變化。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aMZ0B7x6qsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/aMZ0B7x6qsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 高山之字型鐵路模擬 #
  
 日治時期主要是透過鐵路運送樹木，然而傳統的火車是透過旋轉的方式空間上下山，但越高的山可以使用的空間越少，因此當時是採用之字形的方式讓火車上下山。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IoTfRBL7nIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/IoTfRBL7nIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

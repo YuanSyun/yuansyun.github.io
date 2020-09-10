@@ -2,7 +2,7 @@
 layout: post
 title:  "ARKit測試以及實作任意門效果"
 description: ""
-date:       2019-08-01 09:00:00
+date:       2018-07-21 09:00:00
 author:     "Yuan-Syun Ye"
 header-img: assets/images/arkit-object.png
 ---
@@ -18,7 +18,7 @@ header-img: assets/images/arkit-object.png
 
 # 任意門 #
 此作品利用World Tracking，將一扇虛擬的門放置在環境之中，當穿過此門會轉換到虛擬世界，若走回此門則會回到真實世界，實現任意門的概念。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aL4oLiPpWN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/aL4oLiPpWN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 虛擬物件及虛擬UI #
 最後為測試Image Tracking的功能，讓虛擬的物件依照指定圖像的位置顯示在真實世界中，或是透過圖像顯示一個隱藏的UI。
