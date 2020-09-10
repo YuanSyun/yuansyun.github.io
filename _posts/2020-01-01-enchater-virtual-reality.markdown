@@ -1,6 +1,11 @@
 ---
 layout: post
-title:  "EnchaterVR"
+title:  "多人虛擬實境對戰遊戲"
+layout:     post
+description: "EnchaterVR"
+date:       2020-01-01 09:00:00
+author:     "Yuan-Syun Ye 葉元勲"
+header-img: assets/images/enchatervr-partical playing.png
 ---
 
 隨著時間的發展，虛擬實境漸漸地推出多樣的遊戲，這項作品想提出一個多人的虛擬實境對戰遊戲，Enchater VR。玩家為扮演一個魔法師，透過手持控制器劃出對應符咒，並向敵人施展出法術，其中敵人為其他連線的遊戲玩家。玩家需要在指定時間內攻擊敵人，不同的法術打到敵人會有不同分數，最後會依照分數的高低進行排序。

@@ -3,8 +3,8 @@
   # When filling this file in, below, be sure to DELETE the "#" comments - example, greeting should look like - greeting: Hello, I'm Simpol.
 
 #content for nav.html
-title: Simpol Theme
-subtitle: Focus on the writing, the content.
+title: 葉元勲
+subtitle: Yuan-Syun Ye
 
 #content for index.html
   #Add your own info, deleting the comments "#". This data automatically writes to the Index page's mini, about section.
@@ -43,15 +43,15 @@ copyright_name: Mathson Design, LLC
 logo: /assets/img/simpol-favicon.png
 description: Simpol Theme is a clean, minimal website theme all about the writing, the content. Currently available for Jekyll. Perfect for blogging.
 author:
-  name: Simpol Theme
-  email: simpol@scottmathson.com
-  twitter: simpoltheme
+  name: Yuan-Syun Ye
+  email: yuansyuntw@gmail.com
+  twitter: yuansyun
 
 social:
-  name: Simpol Theme
+  name: Yuan-Syun Ye
   links:
-    - https://twitter.com/simpoltheme
-    - https://github.com/simpol-theme
+    - https://twitter.com/yuansyun
+    - https://github.com/yuansyun
 
 # Build settings
 permalink: pretty
