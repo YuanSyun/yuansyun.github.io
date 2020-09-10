@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "Industrial Wring Training in Virtual Reality"
+title:  "利用虛擬實境進行工業配線證照訓練"
+description: "Industrial Wring Training in Virtual Reality"
+date:       2018-03-01 09:00:00
+author:     "Yuan-Syun Ye 葉元勲"
+header-img: assets/images/industrial wring-partical training.png
 ---
 
 傳統的工業配線的練習需要專業的硬體設備以及老師的專業指導，若不當的操作可能會造成線路短路或是設備損毀，此作品則是透過虛擬實境將配線的過程轉移到虛擬世界，讓學生能夠專注在配線的過程。另外學生會依照教學的指示將線路連接在一起，若接錯線系統則會提示學生，讓學生可以透過此系統自行學習。

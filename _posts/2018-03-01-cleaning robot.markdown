@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "An Algorithm For A Robot Vacuum With Lidar Sensor"
+title:  "具光達感測器之掃地機器人路徑規劃演算法"
+description: ""
+date:       2018-03-01 09:00:00
+author:     "Yuan-Syun Ye 葉元勲"
+header-img: assets/images/enchatervr-partical playing.png
 ---
 
 傳統的掃地機器人不具有環境偵測的能力，通常會採用撞到物件後隨機轉轉向的方式，然而這種方法並不是有效的路徑規劃。因此這項研究則是提出掃地機器人搭配光達感測技術的方法，讓光達建立環境地圖並依據地圖規劃出路徑，盡可能縮短掃地時間以及提高清潔範圍。

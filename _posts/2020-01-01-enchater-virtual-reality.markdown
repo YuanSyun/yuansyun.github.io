@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "多人虛擬實境對戰遊戲"
-layout:     post
 description: "EnchaterVR"
 date:       2020-01-01 09:00:00
 author:     "Yuan-Syun Ye 葉元勲"

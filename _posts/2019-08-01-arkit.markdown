@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "A Portal Door With ARKit on Real-World"
+title:  "擴增實境任意門效果實作"
+description: "ARKit"
+date:       2019-08-01 09:00:00
+author:     "Yuan-Syun Ye 葉元勲"
+header-img: assets/images/alishan-tower.png
 ---
 
 由於研究所的研究領域為人機互動，其中有包含了擴增實境，加上最近Apple開始發展AR的技術，因此想了解ARKit目前提供的功能性，並實作了三個小作品。
