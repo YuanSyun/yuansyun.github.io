@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "利用虛擬實境進行工業配線證照訓練"
-description: "Industrial Wring Training in Virtual Reality"
+description: ""
 date:       2018-03-01 09:00:00
 author:     "Yuan-Syun Ye 葉元勲"
 header-img: assets/images/industrial wring-partical training.png
