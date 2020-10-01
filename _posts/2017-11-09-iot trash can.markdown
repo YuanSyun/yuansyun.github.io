@@ -4,7 +4,7 @@ title:  "校園垃圾桶容量偵測以及清潔路線規劃"
 description: ""
 date:       2017-11-09 09:00:00
 author:     "Yuan-Syun Ye"
-header-img: assets/images/trash can-status2.png
+header-img: assets/images/trash can-status2-v2.png
 ---
 
 通常在校園或是大型購物商場都會在環境中放置垃圾桶，然而清潔人員需要定時到各處的垃圾桶進行清潔，然而有些地點可能會因為人潮較多在還沒到達清潔時間時就會被裝滿，或是某些垃圾沒有任何的垃圾，清潔人員卻還過去進行檢查。因此此作品提出讓垃圾桶具有感測重量的能力，並透過物聯網的技術及時監控垃圾桶的重量，以及提供一條路徑規劃讓清潔人員以較有效率的路徑進行清潔。

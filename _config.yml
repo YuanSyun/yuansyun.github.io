@@ -4,7 +4,7 @@
 
 #content for nav.html
 title: 葉元勲
-subtitle: 葉元勲(Yuan-Syun Ye)畢業於國立交通大學多媒體工程研究所，碩士論文研究領域為人機互動(Human Computer Interface, HCI)、虛擬實境(Virtual Reality, VR)。擅長工具為Unity 3D，以及能透過Arudino與3D Printer快速進行硬體裝置的開發。目前正在尋找與虛擬實境、擴增實境以及物聯網相關的工作機會。
+subtitle: 葉元勲(Yuan-Syun Ye)畢業於國立交通大學多媒體工程研究所，碩士論文研究領域為人機互動(Human Computer Interface, HCI)、虛擬實境(Virtual Reality, VR)。擅長工具為Unity 3D，以及能透過Arudino與3D Printer快速進行硬體裝置的開發。
 
 #content for index.html
   #Add your own info, deleting the comments "#". This data automatically writes to the Index page's mini, about section.
